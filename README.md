@@ -12,8 +12,8 @@
 <a href="https://www.instagram.com/krishna_7339"><img title="instagram" src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram"></a>
 
 <p align="center"> HACKER.K
-  <h3 align="center">FROM INDIA</h3>
-<h3 align="center">LIFE IS JUST A HACK 👿</h3>
+  <h3 align="center">FROM INDIA(ANDHRA PRADESH)</h3>
+<h3 align="center">"WE ARE MANY | WE ARE STRONG | WE ARE ANONYMOUS |WE DON'T FORGIVE | AND WE ARE HACKERS" 👿</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannandivelugu&label=Profile%20views&color=0e75b6&style=flat" alt="mohannandivelugu" /> </p>
 
@@ -23,11 +23,19 @@
 
 - ⚡ Fun fact **Cybernoob**
 
-- "WE ARE MANY | WE ARE STRONG | WE ARE ANONYMOUS |WE DON'T FORGIVE | AND WWE ARE HACKERS"
+-    CERTIFIED - ETHICAL - HACKER  C|EH
+    
+ _______ _______ 
+(  ____ (       )
+| (    \/ () () |
+| (_____| || || |
+(_____  ) |(_)| |
+      ) | |   | |
+/\____) | )   ( |
+\_______)/     \|
+                 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohannandivelugu&show_icons=true&locale=en&layout=compact" alt="mohannandivelugu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymous-7339show_icons=true&locale=en" alt="anonymous-7339" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous-7339&" alt="anonymous-7339" /></p>
 
