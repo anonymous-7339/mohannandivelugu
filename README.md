@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://t.me/kri shna"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://instagram.com/c/krishna_7339_"><img title="instagram" src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.instagram.com/krishna_7339"><img title="instagram" src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram"></a>
 
 
 
