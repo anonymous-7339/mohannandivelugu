@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm krishna_7339_ | hacker</h1>
-<h3 align="center">LIFE IS JUST A HACK 👿</h3>
+## HELLO I AM ```anonymous-7339```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannandivelugu&label=Profile%20views&color=0e75b6&style=flat" alt="mohannandivelugu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohannandivelugu" alt="mohannandivelugu" /></a> </p>
-
-- I’m currently learning **Everything 🤣**
-
-- ⚡ Fun fact **Cybernoob**
- 
-- 👯 I’m Noob**
+<p align="center"><a href="https://github.com/anonymous-7339><img src="https://github.com/anonymous-739/anonymous-7339/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/krishna_7339_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_7339_" height="30" width="40" /></a>
-<a href="https://medium.com/@anonymous7339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anonymous7339" height="30" width="40" /></a>
+<p align="center"><a href="https://github.com/anonymous-73339"><img title="HACKER.K" src="https://github-readme-stats.vercel.app/api?username=anonymous-7339&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohannandivelugu&show_icons=true&locale=en&layout=compact" alt="mohannandivelugu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohannandivelugu&show_icons=true&locale=en" alt="mohannandivelugu" /></p>
+<p align="center">
+<a href="https://t.me/kri shna"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://instagram.com/c/krishna_7339_"><img title="instagram" src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram"></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohannandivelugu&" alt="mohannandivelugu" /></p>
+
+
+<p align="center">
+<a href="https://github.com/anonymous-7339/SMF"><img title="SMF" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymous-7339&repo=SMF&theme=highcontrast"></a>
+
+
+<p align="center">
+<a href="https://github.com/rixon-cochi"><img title="anonymous7339" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous&layout=compact"></a>
+</p>
+
+<p align="center"> HACKER.K
