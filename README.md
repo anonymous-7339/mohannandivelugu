@@ -13,12 +13,5 @@
 
 
 
-<p align="center">
-<a href="https://github.com/anonymous-7339/SMF"><img title="SMF" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymous-7339&repo=SMF&theme=highcontrast"></a>
-
-
-<p align="center">
-<a href="https://github.com/rixon-cochi"><img title="anonymous7339" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous&layout=compact"></a>
-</p>
 
 <p align="center"> HACKER.K
